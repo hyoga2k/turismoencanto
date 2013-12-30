@@ -1,0 +1,21 @@
+/* Plantilla Servicio de Reservas */
+
+/* Escritorio / ancho de pantalla supuesto */
+@media only screen and (min-width : 1050px) {
+  /* styles */
+}
+
+/* iPhone normal */
+@media
+  only screen and (-webkit-min-device-pixel-ratio : 1.5),
+  only screen and (min-device-pixel-ratio : 1.5) {
+  /* styles */
+}
+
+/* Distintas orientaciones */
+@media screen and (orientation:portrait) {
+  /* styles */
+}
+@media screen and (orientation:landscape) {
+  /* styles */
+}
